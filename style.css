@@ -1,0 +1,30 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+    background-color: rgb(11, 11, 15);
+}
+
+#gameover {
+    border: 1px solid black;
+    color: rgb(255, 6, 6);
+    padding: 30px;
+    margin: 1%;
+    text-align: center;
+}
+
+#botao {
+    padding: 20px;
+    margin: 1%;
+}
+
+footer {
+    padding: 30px;
+    text-align: center;
+    margin: 1%;
+    color: white;
+  }

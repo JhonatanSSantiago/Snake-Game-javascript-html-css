@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <link rel="shortcut icon" href="img/icone.ico" type="image/x-icon"/> <!--Icone-->
+    <link rel="stylesheet" href="style.css">    
+</head>
+<body>
+    <h1>&#128013; SNAKE GAME &#128013;</h1>
+
+    <button id="botao" type="button" class="btn-toggle" data-element="#snake" onclick="inicio()">Start Game</button>
+    <div id="gameover" hidden>
+        <h2>&#128128; Game Over &#128128; </h2>
+        <h3> &#127942; Pontuação: <span>0</span> &#127942; </h3>
+    </div>
+    <canvas id="snake" width="512" height="512" hidden></canvas>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script defer src="main.js" ></script> 
+
+    <footer> <!--Rodape-->
+          <small>Todos os direitos reservados</small>
+         <p>Feito com &#129505; por  <a href="mailto:jhonssantiago@gmail.com">Jhonatan Santiago</a></p>          
+    </footer>   <!--Fim do Rodape-->
+</body>
+</html>
