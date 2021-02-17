@@ -19,7 +19,7 @@ Linguagem e Tecnologias usadas:
 
 
 
-![gif](.\img\demo.gif)
+![gif](demo.gif)
 
 
 
