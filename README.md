@@ -19,7 +19,7 @@ Linguagem e Tecnologias usadas:
 
 
 
-![gif](C:\Users\jhons\Downloads\Projetos\jogo-da-cobrinha\img\demo.gif)
+![gif](.\img\demo.gif)
 
 
 
