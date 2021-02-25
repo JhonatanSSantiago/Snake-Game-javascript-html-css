@@ -1,5 +1,5 @@
 # Snake Game
-Jogue o game por aqui [Snake Game](https://snakegamebyjhss.vercel.app/)
+Jogue o game por aqui [Snake Game](https://cliolink.com/snakegamejhss)
 
 Jogo recriado por mim, tendo usado como código base do projeto do Curso da Digital Innovation One - Recriando o jogo da cobrinha com JavaScript
 Disponível nesse link [[JhonatanSSantiago](https://github.com/JhonatanSSantiago)/**[curso-dio-jogo-cobrinha](https://github.com/JhonatanSSantiago/curso-dio-jogo-cobrinha)**]
